@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="653dee76-b02c-4fcb-9410-f3f4e3f5f77a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dyo5EWY9Ov6bjuI4A0zBX2uF98" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DBE.Init.BalloonShown" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1706" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593406580518">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1706" y="344" key="#com.intellij.fileTypes.FileTypeChooser/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1593406580518" />
+  </component>
+</project>
